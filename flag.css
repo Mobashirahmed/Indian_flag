@@ -1,0 +1,39 @@
+body{
+    background-color:darkkhaki;
+}
+
+main{
+    background-color: khaki;
+    margin-top: 4pc;
+    border-radius: 09pc;
+}
+
+#Tri-color_flag{
+    border-radius: 89.755pc;
+    background-color:antiquewhite;
+    width: 64.5pc;
+    height:30pc;
+}
+
+.Orange{
+    background-color:#FF9933;
+}
+
+.White{
+    background-color:#FFFFFF;
+}
+
+.Green{
+    background-color: #138808;
+}
+
+.Flag{
+    border-radius: 0.8985pc;
+    height:10pc;
+    width:60pc;
+}
+title{
+    background-color: gold;
+    font-style:italic;
+    color: darkred;
+}
